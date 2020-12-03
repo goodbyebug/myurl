@@ -1,1 +1,1 @@
-http://hao123.com
+<a href="http://hao123.com">hao123</a>
